@@ -1,0 +1,6 @@
+- 👋 Hi, I’m Elvin Bajric
+- 👀 I’m interested in a lot of different technologies from embedded devices to AI.
+- 🌱 I’m currently learning Java, C++ and Rust.
+- 📫 You can reach me via e-Mail under 190026@studierende.htl-donaustadt.at
+- My hobby is to write software, so I got pretty good at it, but still I have a lot to learn.
+- i use arch btw
